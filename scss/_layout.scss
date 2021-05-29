@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 95%;
   max-width: 96em;
   padding: 6em 1.5em;
   display: flex;
@@ -29,7 +29,7 @@ body {
   }
 
   @media screen and (min-width: 60em) {
-    padding: 12em;
-    gap: 12rem;
+    padding: 9em 12em;
+    gap: 8rem;
   }
 }
